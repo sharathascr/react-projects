@@ -1,0 +1,7 @@
+.counter-container {
+  width: 25%;
+  margin: 40px auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
