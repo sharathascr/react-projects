@@ -1,8 +1,7 @@
-import SearchList from "./projects/searchList/SearchList";
-import TodoApp from "./projects/TodoList/TodoApp";
+import ColorPicker from "./projects/ColorPicker";
 
 function App() {
-  return <SearchList />;
+  return <ColorPicker />;
 }
 
 export default App;
